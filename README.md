@@ -1,4 +1,8 @@
 <html>
+    <head>
+        <title>Ремонт сотовыйх телефонов</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
     <body>
         <header>
             <a href="#price">Прайс-лист</a> <a href="#reviews">Отзывы</a> <a href="#photos">Фотографии</a>
@@ -37,4 +41,4 @@
             <img src="https://mars.algoritmika.org/uploads/2020/11/mobile-phone-4381895_1920_0_1605280472.jpg" width="790px"/>
         </main>
     </body>
-</html># 313
+</html>
